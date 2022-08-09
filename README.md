@@ -1,16 +1,8 @@
-# whatsapp_clone
+# Whatsapp_UI_Clone
 
-A new Flutter project.
+A clone of the  whatsapp ui built completely using Flutter and is 100% responsive for any screen
+size or orienttation,be it android,ios or Web.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Live Web Demo
+https://effervescent-smakager-cced95.netlify.app/#/
