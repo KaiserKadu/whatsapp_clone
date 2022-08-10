@@ -6,3 +6,6 @@ size or orienttation,be it android,ios or Web.
 
 ## Live Web Demo
 https://effervescent-smakager-cced95.netlify.app/#/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=flag-india&show_icons=true)
