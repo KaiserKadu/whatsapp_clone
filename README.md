@@ -8,4 +8,4 @@ size or orienttation,be it android,ios or Web.
 https://effervescent-smakager-cced95.netlify.app/#/
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaiserKadu&repo=whatsapp_clone&theme=flag_india)](https://github.com/KaiserKadu/whatsapp_clone)
+
